@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working on building scalable full-stack web applications using the MERN Stack and exploring microservices architecture.
-<br>Developing a real-time chat application using Node.js, Express, MongoDB, Redis, RabbitMQ, and Socket.IO.<br>I'm looking to collaborate on open-source MERN Stack projects, backend development, REST APIs, and AI-powered web applications.<br>Currently learning Advanced Node.js, System Design, Microservices, Docker, CI/CD, and Cloud Technologies.<br>"Coffee, debugging, and solving coding challenges make my day."
+<br>I'm looking to collaborate on open-source MERN Stack projects, backend development, REST APIs, and AI-powered web applications.<br>Currently learning Advanced Node.js, System Design, Microservices, Docker, CI/CD, and Cloud Technologies.<br>"Coffee, debugging, and solving coding challenges make my day."
 
 
 ## 🌐 Socials:
